@@ -1,0 +1,12 @@
+{
+  "name": "plagiarism_detection",
+  "version": "1.0.0",
+  "description": "Using RApid Api Fetching Data related to the givel on written data to identify id it pre-exist or not",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ranapratap Ghosh Sayak Mandal Pritam Roy Abhishek Biswas Sambhranta Gupta Rahul Mondal",
+  "license": "MIT"
+}
